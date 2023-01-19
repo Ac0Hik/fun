@@ -1,0 +1,5 @@
+150 200 300
+hello there my cool string
+randome text i wrote here
+just to fill in and test wether my code is valid or not 
+and here we go last string here
